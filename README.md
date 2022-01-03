@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timoriegebauer" alt="timoriegebauer" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin and C++**
+- 🌱 I’m currently learning **Flutter and C++**
 
 - 💬 Ask me about **Java for android development, HTML, CSS and Javascript**
 
