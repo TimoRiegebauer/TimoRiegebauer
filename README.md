@@ -11,6 +11,4 @@
 
 - 📫 How to reach me **https://lizard-studios.at/index.php?s=contact**
 
-<h3 align="left">Connect with me:</h3>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timoriegebauer&" alt="timoriegebauer" /></p>
